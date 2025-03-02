@@ -19,31 +19,18 @@
 📫 How to reach me: **gangulyanurag99@gmail.com**  
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-ganguly//) 
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Gangulys-99)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-ganguly//) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Gangulys-99)  
 
 ## 🛠 Tools & Technologies:  
 
 ### 📊 **Data Visualization & BI:**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-4AAB44?style=flat&logo=qlik&logoColor=white)
-![Google Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google-looker&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-4AAB44?style=flat&logo=qlik&logoColor=white) ![Google Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google-looker&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)  
 
 ### 🛢 **Databases & SQL:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
 
 ### 📉 **Data Analysis & Processing:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
 
 ### ☁ **Cloud & Big Data:**  
-![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-232F3E?style=flat&logo=amazon-aws)  
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=google-cloud)  
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDB515?style=flat&logo=apachespark&logoColor=black)  
+![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-232F3E?style=flat&logo=amazon-aws)  ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=google-cloud)  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDB515?style=flat&logo=apachespark&logoColor=black)  
