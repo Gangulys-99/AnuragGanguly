@@ -25,7 +25,7 @@
 ## 🛠 Tools & Technologies:  
 
 ### 📊 **Data Visualization & BI:**  
-(https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+!(https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-4AAB44?style=flat&logo=qlik&logoColor=white)
 ![Google Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google-looker&logoColor=white) 
