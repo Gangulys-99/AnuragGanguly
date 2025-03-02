@@ -19,16 +19,14 @@
 📫 How to reach me: **gangulyanurag99@gmail.com**  
 
 ## 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/anurag-ganguly/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-ganguly//) 
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Gangulys-99)  
 
 ## 🛠 Tools & Technologies:  
 
 ### 📊 **Data Visualization & BI:**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-4AAB44?style=flat&logo=qlik&logoColor=white)
 ![Google Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google-looker&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white)  
