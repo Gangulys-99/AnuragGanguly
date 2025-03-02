@@ -19,7 +19,9 @@
 📫 How to reach me: **gangulyanurag99@gmail.com**  
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg)](https://www.linkedin.com/in/anurag-ganguly/)
+<a href="https://www.linkedin.com/in/anurag-ganguly/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40">
+</a>
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Gangulys-99)  
 
 ## 🛠 Tools & Technologies:  
