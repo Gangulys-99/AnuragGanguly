@@ -1,6 +1,9 @@
 # Hi 👋, I'm Anurag Ganguly 
 🚀 Data Analyst | Turning Data into Insights, and Ideas into Reality.  
 
+### 👨‍💻 Profile Views
+![Visitor Count](https://profile-counter.glitch.me/Gangulys-99/count.svg)
+
 
 📊 **Currently Working On:**  
 - Building an interactive **Data Dashboard** using Tableau & Power BI  
