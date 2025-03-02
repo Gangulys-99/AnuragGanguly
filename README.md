@@ -1,9 +1,6 @@
 # Hi 👋, I'm Anurag Ganguly 
 🚀 Data Analyst | Turning Data into Insights, and Ideas into Reality.  
 
-### 👨‍💻 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/Gangulys-99/count.svg)
-
 
 📊 **Currently Working On:**  
 - Building an interactive **Data Dashboard** using Tableau & Power BI  
@@ -22,7 +19,7 @@
 📫 How to reach me: **gangulyanurag99@gmail.com**  
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-ganguly/)  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/anurag-ganguly/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Gangulys-99)  
 
 ## 🛠 Tools & Technologies:  
